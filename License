@@ -1,0 +1,35 @@
+# Creative Commons Attribution 4.0 International
+
+Copyright (c) 2026 The Authors
+
+The data, study-level coding, quantitative analysis, screening registries, tables, documentation, and other original repository materials are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose, including commercial purposes.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate whether changes were made. Attribution must not suggest that the authors endorse you or your use.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+The complete legal text is available at:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Suggested attribution
+
+> [Authors]. (2026). *Resource-Constrained Edge AI Review: Extraction Matrix, Quantitative Analysis, and Screening Registries* (Version 1.0). Zenodo. https://doi.org/[DOI]. Licensed under CC BY 4.0.
+
+## Third-party material
+
+This license applies only to original materials created for this repository.
+
+Bibliographic metadata, publication titles, abstracts, identifiers, URLs, and other third-party information remain subject to the rights, terms, and policies of their original publishers, authors, repositories, and metadata providers.
+
+The repository does not grant rights to the full texts of the reviewed publications and does not redistribute those full texts.
+
+## Software
+
+The current repository contains data and documentation rather than a standalone software package. If executable source code is added in a later version, that code should be accompanied by a separate software license, such as the MIT License, clearly identified within the corresponding directory.
